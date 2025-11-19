@@ -1,0 +1,1120 @@
+Bibliography
+National Survey on Drug Use and Health (NSDUH) Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 64. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2019-05-21.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. (author unknown), "Ecstasy surveillance in the United States: The time
+to monitor juvenile arrestees is now." Journal of Offender Monitoring.
+2001, 14, (3-4), 23 - 24.
+
+2. (author unknown), "NSDUH adjusted to focus on non-prescription
+methamphetamine." Alcoholism and Drug Abuse Weekly. Sep 17, 2007, 19, (35),
+4 - 5.
+
+3. Adams, Edgar H., "Prevalence of prescription drug abuse: Data from the
+National Institute of Drug Abuse." New York State Journal of Medicine. Nov
+1991, 91, (11, supplement), 32 - 36.
+
+4. Adrados, J.L.R.; Harrison, L., "Adolescent drug use in Madrid and in the
+United States of America." Contemporary Drug Problems. 1993, 20, (1), 93 -
+131.
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+5. Amari, Erica; Rehm, Jurgen; Goldner, Elliot; Fischer, Benedikt,
+"Nonmedical prescription opioid use and mental health and pain
+comorbidities: A narrative review." Canadian Journal of Psychiatry. Aug
+2011, 56, (8), 495 - 502.
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+6. Anderson, Christy M.; Burns, David M.; Dodd, Kevin W.; Feuer, Eric J.,
+"Birth-Cohort-Specific Estimates of Smoking Behaviors for the U.S.
+Population." Risk Analysis. Jul 2012, 32, S14 - S24. DOI: 10.1111/j.1539-
+6924.2011.01703.x
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+7. Anderson, J.E.; MacGowan, R.; Jones, T.S.; Barker, P., "Needle hygiene
+and sources of needles for injection drug users: Data from a national
+survey." Journal of Acquired Immune Deficiency Syndromes and Human
+Retrovirology. 1998, 18, (Suppl 1), S147 - S148. DOI: 10.1097/00042560-
+199802001-00030
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+8. Anthony, J.C., "Novel phenotype issues raised in cross-national
+epidemiological research on drug dependence." Annals of the New York
+Academy of Sciences. Feb 2010, 1187, 353 - 369. DOI: 10.1111/j.1749-
+6632.2009.05419.x
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+9. Anthony, James C.; Lloyd, J.J.; Chen, C.Y., "Clinical Features
+Associated with Seeking Alcohol Treatment." Presented at the Sixty-third
+Annual Scientific Meeting of the College on Problems of Drug Dependence,
+College on Problems of Drug Dependence, Scottsdale, AZ, Jun 16-21, 2001.
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+10. Beveridge, Andrew A.; Kadushin, Charles; Saxe, Leonard; Rindskopf,
+David; Livert, David, "Survey estimates of drug-use trends in urban
+communities: General principles and cautionary examples." Substance Use and
+Misuse. 2000, 35, (6-8), 891 - 923. DOI: 10.3109/10826080009148426
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+11. Bhati, Avinash; Crites, Erin L.; Taxman, Faye S., "RNR simulation tool:
+A synthetic datasets and its uses for policy simulations." In Taxman, Faye
+S.; Pattavina, April, Simulation Strategies to Reduce Recidivism: A
+Synthetic Datasets and Its Uses for Policy Simulations. 197 - 221, New
+York, NY: Springer,2013. DOI: 10.1007/978-1-4614-6188-3_8
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+12. Biemer, Paul P.; Chen, Patrick; Wang, Kevin, "Incorporating Level of
+Effort Paradata in the NSDUH Nonresponse Adjustment Process." Rockville,
+MD: Substance Abuse and Mental Health Services Administration, Jun 2013.
+Full text PDF: http://www.samhsa.gov/data/NSDUH/NSDUHCallbackModelReport2013.pdf
+
+13. Biemer, Paul P.; Witt, Michael, "Repeated measures estimation of
+measurement bias for self-reported drug use with applications to the
+National Household Survey on Drug Abuse." NIDA Research Monograph. 1997,
+167, 439 - 476.
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/439-476_Biemer.pdf
+
+14. Biemer, Paul; Brown, Gordon, "Model-based estimation of drug use
+prevalence using item count data." Journal of Official Statistics. 2005,
+21, (2), 287 - 308.
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/439-476_Biemer.pdf
+
+15. Biondo, Gabriella; Chilcoat, Howard, "Discrepancies in prevalence
+estimates in two national surveys for nonmedical use of a specific opioid
+product versus any prescription pain reliever." Drug and Alcohol
+Dependence. Jan 2014, 134, 396 - 400. DOI: 10.1016/j.drugalcdep.2013.10.005
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/439-476_Biemer.pdf
+
+16. Blanken, Joseph A., "Drug abuse trends among youth in the United
+States." Annals of the New York Academy of Sciences. Oct 2004, 1025, 465 -
+471. DOI: 10.1196/annals.1316.057
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/439-476_Biemer.pdf
+
+17. Blumstein, Alfred; Heinz, H. John, III, "Youth Violence, Guns and the
+Illicit-Drug Industry." In Block, Carolyn; Block, Richard, Trends, Risks,
+and Interventions in Lethal Violence: Proceedings of the Third Annual
+Spring Symposium of the Homicide Research Working Group. Atlanta, Georgia.
+3 - 15, Washington, DC: United States Department of Justice, National
+Institute of Justice,1995. OJP-92-170-M
+Full text PDF: http://homicideworkinggroup.cos.ucf.edu/include/documents/hrwg94.pdf
+
+18. Boyd, Carol J.; McCabe, Sean E., "Coming to terms with the nonmedical
+use of prescription medications." Substance Abuse Treatment, Prevention,
+and Policy. 2008, 3, (22),. DOI: 10.1186/1747-597X-3-22
+Full text PDF: http://www.biomedcentral.com/content/pdf/1747-597X-3-22.pdf
+
+19. Bray, Robert M.; Kroutil, Larry A.; Marsden, Mary Ellen, "Trends in
+alcohol, illicit drug, and cigarette use among U.S. military personnel:
+1980-1992." Armed Forces and Society. Win 1995, 21, (2), 271 -. DOI:
+10.1177/0095327X9502100207
+Full text PDF: http://www.biomedcentral.com/content/pdf/1747-597X-3-22.pdf
+
+20. Brener, Nancy D.; Grunbaum, Jo Anne; Kann, Laura; McManus, Tim; Ross,
+Jim , "Assessing health risk behaviors among adolescents: The effect of
+question wording and appeals for honesty." Journal of Adolescent Health.
+Aug 2004, 35, (2), 91 - 100.
+Full text PDF: http://www.biomedcentral.com/content/pdf/1747-597X-3-22.pdf
+
+21. Bui, Juliet, "Examining federal data sets to understand Native Hawaiian
+and Pacific Islander behavioral health." Presented at the 141st Annual
+American Public Health Meeting, APHA, Boston, MA, Nov 4, 2013.
+Abstract: https://apha.confex.com/apha/141am/webprogramadapt/Paper289593.html
+
+22. Bukstein, Oscar G.; Nguyen, Caroline, "New Agents of Abuse:
+Understanding Prescription Drug Misuse by Adolescents." Psychiatric Times.
+Jan 2009, 26, (1), 35 - 38.
+Abstract: https://apha.confex.com/apha/141am/webprogramadapt/Paper289593.html
+
+23. Bush, D.M.; Autry, J.H., III, "Substance abuse in the workplace:
+Epidemiology, effects, and industry response." Occupational Medicine: State
+of the Art Reviews. 2002, 17, (1), 13 - 25.
+Abstract: https://apha.confex.com/apha/141am/webprogramadapt/Paper289593.html
+
+24. Calcaterra, Susan; Binswanger, Ingrid A., "National Trends in
+Psychostimulant-Related Deaths: 1999-2009." Substance Abuse. 2013, 34, (2),
+129 - 136. DOI: 10.1080/08897077.2012.726959
+Abstract: https://apha.confex.com/apha/141am/webprogramadapt/Paper289593.html
+
+25. Carroll Chapman, Shawna L. ; Wu, Li-Tzy, "Epidemiology and demography
+of illicit drug use and drug use disorders among adults aged 50 and older."
+In Crome, Ilana B.; Wu, Li-Tzy; Rao, Rahul (Tony); Crome, Peter, Substance
+Use and Older People. 91 - 108, Chichester, UK: John Wiley & Sons,
+Ltd,2015. DOI: 10.1002/9781118430965.ch8
+Abstract: https://apha.confex.com/apha/141am/webprogramadapt/Paper289593.html
+
+26. Center for Substance Abuse Prevention, Dispelling Myths, Restoring
+Hope: News Media Strategies for Reporting about African American Youth and
+Their Experiences with Alcohol and Other Drugs. Rockville, MD: Substance
+Abuse and Mental Health Services Administration, Center for Substance Abuse
+Prevention, 1992.
+Abstract: https://apha.confex.com/apha/141am/webprogramadapt/Paper289593.html
+
+27. Chan, Jacob YuiChung; Walker, Laura R.; Fernelius, Scott; Keck, Phillip
+S.; Rustagi, Manisha , "Factors Associated with Vocational Outcome Among
+Veterans: A Large-Scale Analysis Using the NSDUH [poster]
+." Presented at the 2013 Great Lakes Regional Conference, Counseling
+Psychology Engaging the Community and the World, Western Michigan
+University, Counseling Psychology Program, Grand Rapids, MI, Apr 12-13,
+2013.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+28. Chilcoat, Howard D.; Johanson, Chris-Ellyn, "Vulnerability to cocaine
+abuse." In Higgins, Stephen T., Cocaine Abuse: Behavior, Pharmacology, and
+Clinical Applications. 313 - 341, San Diego, CA: Academic Press,1998.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+29. Cho, Young Ik, "Promoting the use of substance use survey data."
+Substance Use and Misuse. Jan 2014,. DOI: 10.3109/10826084.2013.863546
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+30. Christo, Paul J.; Manchikanti, Laxmaiah; Ruan, Xiulu; Bottros, Michael;
+Hansen, Hans; Solanki, Daneshwari R.; Jordan, Arthur E.; Colson, James,
+"Urine drug testing in chronic pain." Pain Physician. 2011, 14, 123 - 143.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+31. Coffey, Rosanna M.; Levit, Katharine R.; Kassed, Cheryl A.; McLellan,
+A. Thomas; Chalk, Mady; Brady, Thomas M.; Vandivort-Warren, Rita, "Evidence
+for substance abuse services and policy research: A systematic review of
+national databases." Evaluation Review. Apr 2009, 33, 103 - 137. DOI:
+10.1177/0193841X08328126
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+32. Colliver, James D.; Gfroerer, Joseph C., "Motive for nonmedical use of
+prescription pain relievers in the National Survey on Drug Use and Health."
+Journal of Pain. Jun 2008, 9, (6), 487 - 489. DOI:
+10.1016/j.jpain.2008.03.001
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+33. Colliver, James D.; Hughes, Arthur, "Commentary." Journal of Drug
+Issues. Sum 2001, 31, (3), 717 - 720.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+34. Colliver, James D.; Hughes, Arthur, "Substance Use Survey Data
+Collection Methodologies and Selected Papers - Commentary." Journal of Drug
+Issues. Sum 2001, 31, (3), 717 - 720.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+35. Committee on Data and Research for Policy on Illegal Drugs, Informing
+America's Policy on Illegal Drugs: What We Don't Know Keeps Hurting Us.
+Washington, DC: National Academy Press, 2001.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+36. Cowan, Charles D., "Coverage, Sample Design, and Weighting in Three
+Federal Surveys." Journal of Drug Issues. 2001, 31, (3), 599 - 613.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+37. Dawson, Jean, "Competencies and Problems of Poor and Non-poor American
+Emerging Adults." Dissertation, University of New Hampshire, 2010.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+38. Day, Rebecca, "Examination of Differences in Routes of Administration
+and Relapse Frequency in Adults Attending a Methadone Maintenance Program."
+Dissertation, University of the Rockies, 2014.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+39. De La Rosa, Mario R., "Prevalence and Consequences of Alcohol,
+Cigarette, and Drug Use among Hispanics." Alcoholism Treatment Quarterly.
+1998, 16, (1-2), 21 - 54. DOI: 10.1300/J020V16N01_03
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+40. Donohue, John J., III; Ewing, Benjamin; Pelopquin, David, "Rethinking
+America's illegal drug policy." In Cook, Philip; Ludwig, Jens; McCrary,
+Justin, Controlling Crime: Strategies and Tradeoffs . Chicago, IL:
+University of Chicago Pres,2011.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+41. Drucker, Ernest, "Drug prohibition and public health: 25 years of
+evidence." Public Health Reports. Jan/Feb 1999, 114, (1), 14 - 29. DOI:
+10.1093/phr/114.1.14
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+42. Druss, Benjamin G., "Mental health parity, access, and quality of
+care." Medical Care. June 2006, 44, (6), 497 - 498. DOI:
+10.1097/01.mlr.0000223045.34569.56
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+43. Edvin, David; Harald, Samuel, Underage Drinking: Examining and
+Preventing Youth Use of Alcohol. New York, NY: Nova Science Publishers,
+2010.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+44. Eisenman, R., "Belief that drug usage in the United States is
+increasing when it is really decreasing: An example of the availability
+heuristic." Bulletin of the Psychonomic Society. Jul 1993, 31, (4), 249 -
+252.
+Abstract: http://scholarworks.wmich.edu/great_lakes_conference/2013/schedule/74/
+
+45. Embry, Venita; Graham, Phillip; Elek, Elvira; Yaros, Anna; Jones,
+Sarah; Geercken, Gina, "ADHS-BTCD Tobacco Study: Gap Analysis Report."
+Research Triangle Park, NC: RTI International, Jan 2015.
+Full text PDF: http://azdhs.gov/tobaccofreeaz/reports/pdf/2015-tobacco-study-gap-analysis-report..pdf
+
+46. Federal Interagency Forum on Child and Family Statistics, "America's
+Children: Key National Indicators of Well-Being, 2009." Washington, DC:
+National Center for Health Statistics, Jul 2009.
+Abstract: http://www.nichd.nih.gov/publications/pubs_details.cfm?from=&pubs_id=5728
+Full text PDF: http://www.nichd.nih.gov/publications/pubs/upload/Americas-Children-2009.pdf
+
+47. Federal Interagency Forum on Child and Family Statistics, "America's
+Children: Key National Indicators of Well-Being, 2011." National Center for
+Health Statistics. Washington, DC: Jul 2011.
+Full text PDF: http://www.nichd.nih.gov/publications/pubs/upload/americas-children-2011.pdf
+
+48. Flewelling, R.L.; Ennett, S.T.; Rachal, J.V.; Theism, A.C., "National
+Household Survey on Drug Abuse: Race/Ethnicity, Socioeconomic Status, and
+Drug Abuse." Research Triangle Institute, 1991.
+Full text PDF: http://www.nichd.nih.gov/publications/pubs/upload/americas-children-2011.pdf
+
+49. Folsom, R.E.; Liu, J., "Small area estimation for the National
+Household Survey of Drug Abuse." In American Statistical Association 1994
+Proceedings of the Section on Survey Research Methods, Vols I and II. 565 -
+570, Alexandria, VA: American Statistical ASsociation,1994.
+Full text PDF: http://www.nichd.nih.gov/publications/pubs/upload/americas-children-2011.pdf
+
+50. Forey, Barbara; Hamling, Jan; Hamling, John; Thornton, Alison; Lee,
+Peter, "International Smoking Statistics.  A Collection of Worldwide
+Historical Data [Web edition]." Updated Dec 19, 2015,.
+Full text: http://www.pnlee.co.uk/iss.htm
+
+51. Foster, S.E., "No place to hide: Substance abuse in mid-size cities and
+rural America." New York: National Center on Addiction and Substance Abuse
+(CASA) at Columbia University, Jan 2000.
+Abstract: http://www.casacolumbia.org/templates/Publications_Reports.aspx#r42
+
+52. Freeman, Elsie J.; Colpe, Lisa J.; Strine, Tara W.; Satvinder, Dhingra;
+McGuire, Lisa E.; Elam-Evans, Laurie D.; Perry, Geraldine S., "Public
+health surveillance for mental health." Preventing Chronic Disease. Jan
+2010, 7, (1), 1 - 7.
+Abstract: http://www.casacolumbia.org/templates/Publications_Reports.aspx#r42
+
+53. French, Katy; Finkbiner, Richard; Duhamel, Louise, "Patterns of
+Substance Use Among Minority Youth and Adults in the United States: An
+Overview and Synthesis of National Survey Findings." NEDS, National
+Evaluation Data Services. Rockville, MD: Substance Abuse and Mental Health
+Services Administration, Center for Substance Abuse Treatment, Mar 2002.
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+54. Furr-Holden, Carolyn D.M.; Anthony, James C., "Epidemiologic
+differences in drug dependence: A US-UK cross-national comparison." Social
+Psychiatry and Psychiatric Epidemiology. Apr 2003, 38, (4), 165 - 172. DOI:
+10.1007/s00127-003-0614-7
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+55. Furr-Holden, Carolyn Debra M., "The Epidemiology of Drug Dependence: A
+United States-United Kingdom Cross National Study." Dissertation, Johns
+Hopkins University, 1999.
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+56. General Accounting Office, "Drug Use Measurement: Strengths,
+Limitations, and Recommendations for Improvement. Report to the Chairman,
+Committee on Government Operations, House of Representatives." Washington,
+DC: United States General Accounting Office, Program Evaluation and
+Methodology Division, Jun 1993.
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+57. Gerlach, Karen K.; Dasgupta, Nabarun; Schnoll, Sidney H.; Henningfield,
+Jack E., "Epidemiology of stimulant misuse and abuse: Implications for
+future epidemiologic and neuropharmacologic research." Neuropharmacology.
+Dec 2014, 87, 91 - 96. DOI: 10.1016/j.neuropharm.2014.04.020
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+58. Gettman, J.B., Crimes of Indiscretion: Marijuana Arrests in the United
+States. Washington, DC: National Organization for the Reform of Marijuana
+Law, 2005.
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+59. Gfroerer, J.C.; Brodsky, M.D., "The incidence of illicit drug use in
+the United States, 1962-1989." British Journal of Addiction. Sep 1992, 87,
+(9), 1345 - 1351. DOI: 10.1111/j.1360-0443.1992.tb02743.x
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+60. Gfroerer, Joe; Hedden, Sarra; Barker, Peggy; Bose, Jonaki; Aldworth,
+Jeremy
+, "Estimating Mental Illness in an Ongoing National Survey
+." 2012..
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+61. Gfroerer, Joseph, "Commentary [Substance use survey data collection
+methodologies]." Journal of Drug Issues. 2001, 31, (3), 721 - 724.
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+62. Gfroerer, Joseph C., "An Overview of the National Household Survey on
+Drug Abuse and Related Methodological Research." Presented at the meeting
+of the American Statistical Association, Survey Research Section, American
+Statistical Association, Washington, DC, 1993.
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+63. Gfroerer, Joseph; Epstein, Joan; Wright, Doug, "Estimating substance
+abuse treatment need by state." Addiction. Aug 2004, 99, (8), 938 - 939.
+DOI: 10.1111/j.1360-0443.2004.00818.x
+Full text PDF: http://www.calib.com/home/work_samples/files/substance_use_patterns.pdf
+
+64. Gfroerer, Joseph; Eyerman, Joe; Chromy, James, "Redesigning an Ongoing
+National Household Survey: Methodological Issues." Rockville, MD: Substance
+Abuse and Mental Health Services Administration, 2002.
+Full text PDF: http://oas.samhsa.gov/redesigningNHSDA.pdf
+
+65. Giovino, Gary, "Adult Surveillance." Presented at the National
+Conference on Tobacco or Health, National Conference on Tobacco or Health,
+Kansas City, MO, Aug 17, 2012.
+Full text PDF: http://oas.samhsa.gov/redesigningNHSDA.pdf
+
+66. Golub, Andrew; Elliott, Luther; Brownstein, Henry H., "The opiate pain
+reliever epidemic among U.S. arrestees 2000-2010: Regional and demographic
+variations." Journal of Ethnicity in Substance Abuse. 2013, 12, 1 - 29.
+DOI: 10.1080/15332640.2013.759498
+Full text PDF: http://oas.samhsa.gov/redesigningNHSDA.pdf
+
+67. Golub, Andrew; Johnson, Bruce; Sifaneck, Stephen J. Chesluk, Benjamin;
+Parker, Howard, "Is the U.S. experiencing an incipient epidemic of
+hallucinogen use?." Substance Use and Misuse. 2001, 36, (12), 1699 - 1729.
+Full text PDF: http://oas.samhsa.gov/redesigningNHSDA.pdf
+
+68. Goodman, D., "Teen marijuana users report psycho-social problems."
+SAMHSA News. 1998, 4, (3), 2 - 5.
+Full text PDF: http://oas.samhsa.gov/redesigningNHSDA.pdf
+
+69. Grau, E.A.; Frechtel, P.; Odom, D.M.; Painter, D., "A Simple Evaluation
+of the Imputation Procedures Used in the NSDUH." Presented at the Online
+Proceedings of the Survey Research Methods Section, American Statistical
+Association, ASA Section on Survey Research Methods, Alexandria, VA, 2004.
+Full text PDF: http://www.amstat.org/sections/srms/proceedings/y2004/files/Jsm2004-000178.pdf
+
+70. Green, Traci C.; Serrano, Jill M. Grimes; Licari, Andrea; Budman, Simon
+H.; Butler, Stephen F., "Women who abuse prescription opioids: Findings
+from the Addiction Severity Index-Multimedia Version� Connect prescription
+opioid database." Drug and Alcohol Dependence. Jul 2009, 103, (1-2), 65 -
+73. DOI: 10.1016/j.drugalcdep.2009.03.014
+Full text PDF: http://www.amstat.org/sections/srms/proceedings/y2004/files/Jsm2004-000178.pdf
+
+71. Groves, Robert M.; Fowler, Floyd J., Jr.; Couper, Mick P.; Lepkowski,
+James M.; Singer, Eleanor; Tourangeau, Roger, Survey Methodology, 2nd
+Edition. Hoboken, NJ: John Wiley & Sons, Inc., 2009.
+Full text PDF: http://www.amstat.org/sections/srms/proceedings/y2004/files/Jsm2004-000178.pdf
+
+72. Gurovitz, Ron N., Substance Abuse Among Select Ethnicities:
+Adults and Adolescents. New York, NY: Nova Science Publishers, 2013.
+Full text PDF: http://www.amstat.org/sections/srms/proceedings/y2004/files/Jsm2004-000178.pdf
+
+73. Gurovitz, Ron N., Substance Use among Select Ethnicities:
+Adults and Adolescents. New York, NY: Nova Science Publishers Inc., 2013.
+Full text PDF: http://www.amstat.org/sections/srms/proceedings/y2004/files/Jsm2004-000178.pdf
+
+74. Harrison, Ellen R.; Haaga, John; Richards, Toni, "Self-reported drug
+use data: What do they reveal?." American Journal of Drug and Alcohol
+Abuse. Dec 1993, 19, (4), 423 - 441. DOI: 10.3109/00952999309001632
+Full text PDF: http://www.amstat.org/sections/srms/proceedings/y2004/files/Jsm2004-000178.pdf
+
+75. Harrison, L.D., "Trends and patterns of illicit drug use in the USA:
+Implications for policy." International Journal of Drug Policy. 1995, 6,
+(2), 113 - 127.
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+76. Harrison, L.D.; Pottieger, A.E. , "Epidemiology of drug use among
+American youth." In McCoy, C.B. ;  Metsch, L.R.; Inciardi, J.A.,
+Intervening with Drug-Involved Youth. 3 - 22, Thousand Oaks, CA: Sage
+Publications,1996.
+Abstract: http://etoh.niaaa.nih.gov/
+
+77. Harrison, Lana D., "Understanding the Differences in Youth Drug
+Prevalence Rates Produced by the MTF, NHSDA, and YRBS Studies." Journal of
+Drug Issues. Sum 2001, 31, (3), 665 - 694.
+Abstract: http://etoh.niaaa.nih.gov/
+
+78. Harrison, P.A. , "Epidemiology." In Estroff, T.W. , Manual of
+Adolescent Substance Abuse Treatment. 1 - 12, Washington, DC: American
+Psychiatric Publishing,2001.
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+79. Hatziandreu, E.J.; Pierce, J.P.; Fiore, M.C.; Grise, V.; Novotny, T.E.;
+Davis, R.M., "The reliability of self-reported cigarette consumption in the
+United States." American Journal of Public Health. Aug 1989, 79, (8), 1020
+- 1023. DOI: 10.2105/AJPH.79.8.1020
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+80. Hennessy, Kevin; Ginsberg, Caren, "Substance use survey data collection
+methodologies: Introduction." Journal of Drug Issues. Sum 2001, 31, (3),
+595 - 597.
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+81. Hernandez, S.H.; Nelson, L.S., "Prescription drug abuse: Insight into
+the epidemic." Clinical Pharmacology and Therapeutics. 2010, 88, (3), 307 -
+317. DOI: 10.1038/clpt.2010.154
+Abstract: http://etoh.niaaa.nih.gov/Basic.htm
+
+82. Hoffmann, John P.; Johnson, Robert A., "A national portrait of family
+structure and adolescent drug use." Journal of Marriage and Family. Aug
+1998, 60, (3), 633 - 645.
+Full text: http://www.jstor.org/stable/353534
+
+83. Hornik, Robert; Judkins, David; Golub, Andrew; Johnson, Bruce; Duncan,
+David, "Evaluation of the National Youth Anti-Drug Media Campaign:
+Historical Trends in Drug Use and Design of the Phase III Evaluation."
+Bethesda, MD: National Institute on Drug Abuse, Jul 2000.
+Full text: http://www.jstor.org/stable/353534
+
+84. Husten, C.G.; Chrismon, J.H.; Reddy, M.N., "Trends and effects of
+cigarette smoking among girls and women in the United States, 1965-1993."
+Journal of the American Medical Women's Association. Jan/Apr 1996, 51, (1-
+2), 11 - 18.
+Full text: http://www.jstor.org/stable/353534
+
+85. Iannacchione, Vincent G.; McMichael, Joseph P.; Shook-Sa, Bonnie E.;
+Morton, Katherine B., "A Proposed Hybrid Sampling Frame for the National
+Survey on Drug Use and Health." Final Report. Research Triangle Park, NC:
+RTI International, Mar 2012.
+Full text PDF: http://www.samhsa.gov/data/NSDUH/NSDUHMethodsRptHybrid2012.pdf
+
+86. Irwin, Charles E., Jr.; Burg, Scott J.; Cart, Courtney Uhler,
+"America's adolescents: Where have we been, where are we going?." Journal
+of Adolescent Health. Dec 2002, 31, (6, Suppl. 1), 91 - 121. DOI:
+10.1016/S1054-139X(02)00489-5
+Full text PDF: http://www.samhsa.gov/data/NSDUH/NSDUHMethodsRptHybrid2012.pdf
+
+87. Isralowitz, Richard E.; Myers, Peter L., Illicit Drugs. Health and
+Medical Issues Today [series]. Santa Barbara, CA: Greenwood, 2011.
+Full text PDF: http://www.samhsa.gov/data/NSDUH/NSDUHMethodsRptHybrid2012.pdf
+
+88. Johnson, N.B.; Hayes, L.D.; Brown, K.; Hoo, E.C.; Ethier, K.A., "CDC
+National Health Report: Leading Causes of Morbidity and Mortality and
+Associated Behavioral Risk and Protective Factors-United States, 2005-
+2013." Morbidity and Mortality Weekly Report. Surveillance Summaries. Oct
+31, 2014, 63, (4), 3 - 27.
+Full text: http://www.cdc.gov/mmwr/preview/mmwrhtml/su6304a2.htm
+
+89. Johnson, R.A.; Gerstein, D.R.; Rasinski, K.A., "Recall Decay and
+Telescoping in Self Reports of Alcohol and Marijuana Use: Results from the
+National Household Survey on Drug Abuse." Presented at the American
+Association of Public Opinion Researchers Meeting, American Association of
+Public Opinion Researchers, 1997.
+Full text: http://www.cdc.gov/mmwr/preview/mmwrhtml/su6304a2.htm
+
+90. Jordan, B. Kathleen; Karg, Rhonda S.; Batts, Kathryn R.; Epstein, Joan
+F.; Wiesen, Chris, "A clinical validation of the National Survey on Drug
+Use and Health Assessment of Substance Use Disorders." Addictive Behaviors.
+Jun 2008, 33, (6), 782 - 798. DOI: 10.1016/j.addbeh.2007.12.007
+Full text: http://www.cdc.gov/mmwr/preview/mmwrhtml/su6304a2.htm
+
+91. Jung, J., "Extent of alcohol and other drug use." In Jung, J.,
+Psychology of Alcohol and other Drugs: Research Perspective. 55 - 83,
+Thousand Oaks, CA: Sage,2000.
+Full text: http://www.cdc.gov/mmwr/preview/mmwrhtml/su6304a2.htm
+
+92. Kaestner, Robert, "Does Drug Use Cause Poverty?." NBER Working Paper
+Series. 6406, Cambridge, MA: National Bureau of Economic Research, Feb
+1998.
+Abstract: http://papers.nber.org/papers/w6406
+Full text PDF: http://papers.nber.org/papers/W6406.pdf
+
+93. Kail, Barbara Lynn; DeLaRosa, Mario, "Challenges to treating the
+elderly Latino substance abuser: A not so hidden research agenda." Journal
+of Gerontological Social Work. 1998, 30, (1-2), 123 - 141. DOI:
+10.1300/J083v30n01_08
+Abstract: http://papers.nber.org/papers/w6406
+Full text PDF: http://papers.nber.org/papers/W6406.pdf
+
+94. Kandel, Denise B., "Gender differences in the epidemiology of substance
+dependence in the United States." In Frank, Ellen, Gender and its Effects
+on Psychopathology. 231 - 252, Washington, DC: American Psychiatric
+Press,2000.
+Abstract: http://papers.nber.org/papers/w6406
+Full text PDF: http://papers.nber.org/papers/W6406.pdf
+
+95. Kandel, Denise B.; Yamaguchi, Kazuo, "Stages of drug involvement in the
+U.S. population." In Kandel, Denise B., Stages and Pathways of Drug
+Involvement: Examining the Gateway Hypothesis. 65 - 89, New York: Cambridge
+University Press,2002.
+Abstract: http://papers.nber.org/papers/w6406
+Full text PDF: http://papers.nber.org/papers/W6406.pdf
+
+96. Kandel, Denise; Schaffran, Christine; Hu, Mei-Chen; Thomas, Yonette,
+"Age-related differences in cigarette smoking among whites and African-
+Americans: Evidence for the crossover hypothesis." Drug and Alcohol
+Dependence. Nov 2011, 118, (2-3), 280 - 287. DOI:
+10.1016/j.drugalcdep.2011.04.008
+Abstract: http://papers.nber.org/papers/w6406
+Full text PDF: http://papers.nber.org/papers/W6406.pdf
+
+97. Kann, Laura, "Commentary [Suvey use data collection methodologies]."
+Journal of Drug Issues. Sum 2001, 31, (3), 725 - 727.
+Abstract: http://papers.nber.org/papers/w6406
+Full text PDF: http://papers.nber.org/papers/W6406.pdf
+
+98. Karg, Rhonda S.; Bose, Jonaki; Batts, Kathryn R.; Forman-Hoffman,
+Valerie L.; Liao, Dan; Hirsch, Erica; Pemberton, Michael R.; Colpe, Lisa
+J.; Hedden, Sarra L., "Past Year Mental Disorders among Adults in the
+United States: Results from the 2008-2012 Mental Health Surveillance
+Study." CBHSQ Data Review. Rockville, MD: Substance Abuse and Mental Health
+Services Administration, Center for Behavioral Health Statistics and
+Quality, Oct 2014.
+Full text PDF: http://www.samhsa.gov/data/sites/default/files/NSDUH-DR-N2MentalDis-2014-1/Web/NSDUH-DR-N2MentalDis-2014.htm
+
+99. Katz, Nathaniel; Dart, Richard C.; Bailey, Elise; Trudeau, Jeremiah;
+Osgood, Eric, Paillard, Florence, "Tampering with prescription opioids:
+Nature and extent of the problem, health  onsequences, and solutions."
+American Journal of Drug and Alcohol Abuse. 2011, 37, 205 - 217. DOI:
+10.3109/00952990.2011.569623
+Full text PDF: http://www.samhsa.gov/data/sites/default/files/NSDUH-DR-N2MentalDis-2014-1/Web/NSDUH-DR-N2MentalDis-2014.htm
+
+100. Kennet, J.; Gfroerer, J. (eds.), "Evaluating and Improving Methods
+Used in the National Survey on Drug Use and Health." Methodology Series M-
+5. SMA 05-4044, Rockville, MD: Substance Abuse and Mental Health Services
+Administration, Office of Applied Studies, Aug 2005.
+Full text PDF: http://www.oas.samhsa.gov/NSDUH/methods.pdf
+
+101. Kennet, Joel; Painter, Dicy; Hunter, Susan R.; Granger, Rebecca A.;
+Bowman, Katherine R., "Assessing the reliability of key measures in the
+National Survey on Drug Use and Health using a test-retest methodology."
+2005..
+Full text PDF: http://www.fcsm.gov/05papers/Kennet_Painter_etal_IIB.pdf
+
+102. Kessler, Ronald C.; Barker, Peggy R.; Colpe, Lisa J.; Epstein, Joan
+F.; Gfroerer, Joseph C.; Hiripi, Eva; Howes, Mary J.; Normand, Sharon-Lise
+T.; Manderscheid, Ronald W.; Walters, Ellen E.; Zaslavsky, Alan M.,
+"Screening for serious mental illness in the general population." Archives
+of General Psychiatry. Feb 2003, 60, (2), 184 - 189. DOI:
+10.1001/archpsyc.60.2.184
+Full text PDF: http://www.fcsm.gov/05papers/Kennet_Painter_etal_IIB.pdf
+
+103. Kilmer, Beau; Caulkins, Jonathan P.; Midgette,  Gregory; Dahlkemper,
+Linden; MacCoun, Robert J.; Pacula, Rosalie Liccardo, "Before the Grand
+Opening: Measuring Washington State's Marijuana Market in the Last Year
+Before Legalized Commercial Sales." Santa Monica, CA: RAND Drug Policy
+Research Center, 2013.
+Full text PDF: http://www.rand.org/content/dam/rand/pubs/research_reports/RR400/RR466/RAND_RR466.pdf
+
+104. King, Keith A.; Vidourek, Rebecca A.; Merianos, Ashley L., "Typical
+sources and locations where recent youth drinkers obtain and consume
+alcohol based on intensity of use." Journal of Substance Use. 2015,. DOI:
+10.3109/14659891.2015.1005185
+Full text PDF: http://www.rand.org/content/dam/rand/pubs/research_reports/RR400/RR466/RAND_RR466.pdf
+
+105. Knopf, David K.; Park, M. Jane; Brindis, Claire D.; Mulye, Tina Paul;
+Irwin, Charles E., "What gets measured gets done: Assessing data
+availability for adolescent populations." Maternal and Child Health
+Journal. Jul 2007, 11, (4), 335 - 345. DOI: 10.1007/s10995-007-0179-2
+Full text PDF: http://www.rand.org/content/dam/rand/pubs/research_reports/RR400/RR466/RAND_RR466.pdf
+
+106. Kolodinsky, J.; Shirey, L., "A national comparison of marijuana use
+between rural and urban adolescents." In Leech, I.E., Consumer Interests
+Annual: Proceedings: Annual Conference of the American Council on Consumer
+Interests. 42 - 47, Columbis, MO: American Council of Consumer
+Interests,1998.
+Full text PDF: http://www.rand.org/content/dam/rand/pubs/research_reports/RR400/RR466/RAND_RR466.pdf
+
+107. Kopstein, A.; Cooper, L. , "Drug Use Among Racial/Ethnic Minorities."
+Rockville, MD: National Institute on Drug Abuse, 2003.
+Abstract: http://archives.drugabuse.gov/pubs/minorities/
+Full text PDF: http://archives.drugabuse.gov/pdf/minorities03.pdf
+The purpose of this report is to provide an understanding of the nature of
+drug use by minorities in a summary of the most current data on this issue.
+The data in this report come from several large- and small-scale
+epidemiological studies that collect and analyze data on the incidence,
+prevalence, morbidity, mortality, and other adverse health effects of drug
+use by racial and ethnic populations.
+
+108. Kott, Phillip; Hedden, Sarra; Aldworth, Jeremy; Bose, Jonaki; Chromy,
+James; Gfroerer, Joseph; Liao, Dan, "2012 National Survey on Drug Use and
+Health: A Revised Strategy for Estimating the Prevalence of Mental
+Illness." Rockville, MD: Substance Abuse and Mental Health Services
+Administration, Oct 2013.
+Full text PDF: http://www.samhsa.gov/data/2k12/NSDUHrevisedMImethods2012/NSDUHrevisedMImethods2012.pdf
+
+109. Kozel, Nicholas J.; Lambert, Elizabeth Y., "Drug Abuse in the US: An
+Evaluation Using Epidemiological and Ethnographic Data." Futuribles. Mar
+1994, 185, 57 - 72.
+Full text PDF: http://www.samhsa.gov/data/2k12/NSDUHrevisedMImethods2012/NSDUHrevisedMImethods2012.pdf
+
+110. Kroutil, Larry A.; Colliver, James D.; Gfroerer, Joseph, "Prescription
+Drug Misuse: A Continuing Challenge in the New Millennium." 137th Annual
+American Public Health Association Meeting and Exposition, Philadelphia,
+PA, Nov 9, 2009.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+111. Kroutil, Larry; Kennet, Joel; Dean, Elizabeth; LeBaron, Patricia;
+Painter, Dicy; Barker, Peggy
+, "Measuring prescription drug misuse in the National Survey on Drug Use
+and Health." Presented at the 140th American Public Health Association
+Annual Meeting and Exposition (APHA 2012), American Public Health
+Association, San Francisco, CA, Oct 29, 2012.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+112. Kubiak, Sheryl Pimlott; Beeble, Marisa L.; Bybee, Deborah, "Testing
+the validity of the K6 in detecting major depression and PTSD among jailed
+women." Criminal Justice and Behavior. Jan 2010, 37, (1), 64 - 80. DOI:
+10.1177/0093854809348139
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+113. Largay, Julie; Dong, Xiuwen Sue; Wang, Xuanwen , "Healthy behaviors
+and better health among construction workers." Presented at the 141st
+American Public Health Association Annual Meeting and Expo, APHA, Boston,
+MA, Nov 3, 2013.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+114. Lee, J.S., "Generating networks of illegal drug users using large
+samples of partial ego-network data." In Intelligence and Security
+Informatics: Lecture Notes in Computer Science. 390 - 402, Berlin, Germany:
+Springer-Verlag,2004.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+115. Lessler, Judith T.; Caspar, Rachel A.; Penne, Michael A.; Barker,
+Peggy R., "Developing computer assisted interviewing (CAI) for the National
+Household Survey on Drug Abuse." Journal of Drug Issues. Win 2000, 30, (1),
+9 - 34.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+116. Like-Haislip, Toya, "Racial and ethnic patterns in criminality and
+victimization." In Bucerius, Sandra M.; Tonry, Michael H., The Oxford
+Handbook of Ethnicity, Crime, and Immigration. The Oxford Handbooks in
+Criminology and Criminal Justice. 107 - 134, Oxford, UK: Oxford University
+Press,2014.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+117. Liu, Yanju; Lu, Hai; Veenstra, Kevin, "Is sin always a sin? The
+interaction effect of social norms and financial incentives on market
+participants’ behavior." Accounting, Organizations and Society. May 2014,
+39, (4), 289 - 307. DOI: 10.1016/j.aos.2014.04.001
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+118. Lo, Celia C.; Garland, T. Neal, "The Relationship Between Onset Age of
+Drinking and Delinquency: A Comparison of Data from the National Household
+Survey and the Drug Use Forecasting Survey." Presented at the Annual
+Meeting of the American Society of Criminology, American Society of
+Criminology, Washington, DC, 1998.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+119. Macklem, Gayle L., "Prevention in action." In Preventive Mental Health
+at School. 277 - 299, New York, NY: Springer       ,2014. DOI: 10.1007/978-
+1-4614-8609-1_14
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+120. Madras, Bertha, "Chapter One - Drug Use and Its Consequences." In
+Madras, Bertha; Kuhar, Michael, The Effects of Drug Abuse on the Human
+Nervous System. 1 - 35, Boston: Academic Press,2014. DOI: 10.1016/B978-0-
+12-418679-8.00001-0
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+121. Maisto, Stephen A.; Galizio, Mark; Connors, Gerard J., Drug Use and
+Abuse. Stamford, CT: Cengage Learning, 2015.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+122. Maxwell, Jane Carlisle, Patterns of club drug use in the U.S., 2004:
+Ecstasy, GHB, ketamine, LSD, methamphetamine, rohypnol. Autstin, TX: Gulf
+Coast Addiction Technology Transfer Center, University of Texas at Austin,
+2004.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+123. Maxwell, Jane Carlisle, "Psychoactive substances--some new, some old:
+A scan of the situation in the U.S.." Drug and Alcohol Dependence. Jan
+2014, 134, 71 - 77. DOI: 10.1016/j.drugalcdep.2013.09.011
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+124. McCarthy, Michael, "Prescription drug abuse up sharply in the USA."
+Lancet. May 5, 2007, 369, 1505 - 1506. DOI: 10.1016/S0140-6736(07)60690-4
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+125. McCartt, Anne T.; Hellinga, Laurie A.; Kirley, Bevan B., "The effects
+of minimum legal drinking age 21 laws on alcohol-related driving in the
+United States." Journal of Safety Research. Apr 2010, 41, (2), 173 - 181.
+DOI: 10.1016/j.jsr.2010.01.002
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+126. Mcauliffe, William E., "Measuring treatment needs: A reply to
+Gfroerer, Epstein, and Wright." Addiction. Sep 2004, 99, (9), 1219 - 1220.
+DOI: 10.1111/j.1360-0443.2004.00816.x
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+127. Metsch, Lisa R.; Pollack, Harold A., "Welfare reform and substance
+abuse." Milbank Quarterly. 2005, 83, (1), 65 - 100. DOI: 10.1111/j.0887-
+378X.2005.00336.x
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+128. Mieczkowski, Thomas M., "The prevalence of drug use in the United
+States." In Tonry, Michael, Crime and Justice: A Review of Research. 349 -
+414, Chicago, IL: University of Chicago Press,1996.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+129. Miller, Peter V., "Is 'up' right?  The National Household Survey on
+Drug Abuse." Public Opinion Quarterly. Win 1997, 61, (4), 627 - 641. DOI:
+10.1086/297821
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+130. Morral, Andrew R.; McCaffrey, Daniel F.; Chien, Sandy, "Measurement of
+adolescent drug use." Journal of Psychoactive Drugs. Jul/Sep 2003, 35, (3),
+301 - 309. DOI: 10.1080/02791072.2003.10400013
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+131. Mosher, Clayton James; Akins, Scott, Drugs and Drug Policy: The
+Control of Consciousness Alteration. Thousand Oaks, CA: Sage Publications,
+Inc., 2007.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+132. National Center for Health Statistics, "Health, U.S., 2004: With
+Chartbook on Trends in the Health of Americans." Hyattsville, MD: United
+States Department of Health and Human Services, National Center for Health
+Statistics, 2004.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+133. National Drug Intelligence Center, "Domestic Cannabis Cultivation
+Assessment, 2009." Washington, DC: United States Department of Justice, Jul
+2009.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+134. National Drug Intelligence Center, "National Drug Threat Assessment,
+2007." No. 2006-Q0317-003, Johnstown, PA: United States Department of
+Justice, Oct 2006.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+135. National Institute on Drug Abuse, "Drug Abuse and Addiction Research:
+25 Years of Discovery to Advance the Health of the Public." Washington, DC:
+United States National Institutes of Health, 1999.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+136. National Survey on Drug Use and Health, "Alcohol treatment report ."
+In Edvin, David; Harald, Samuel , Underage Drinking: Examining and
+Preventing Youth Use of Alcohol. Alcohol and Drug Abuse. 1 - 7, New York,
+NY: Nova Science Publishers,2010.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+137. National Survey on Drug Use and Health, "Quantity and frequency of
+alcohol use." In Edvin, David; Harald, Samuel, Underage Drinking: Examining
+and Preventing Youth Use of Alcohol. Alcohol and Drug Abuse. 23 - 29, New
+York, NY: Nova Science Publishers,2010.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+138. National Survey on Drug Use and Health, "Underage alcohol use: Where
+do young people drink?." In Edvin, David; Harald, Samuel, Underage
+Drinking: Examining and Preventing Youth Use of Alcohol. Alcohol and Drug
+Abuse. 231 - 237, New York, NY: Nova Science Publishers,2010.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+139. National Survey on Drug Use and Health, "Underage alcohol use: Where
+do young people get alcohol?." In Edvin, David; Harald, Samuel, Underage
+Drinking: Examining and Preventing Youth Use of Alcohol. Alcohol and Drug
+Abuse. 239 - 245, New York, NY: Nova Science Publishers,2010.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+140. O'Malley, Patrick M.; Johnston, Lloyd D.; Bachman, Jerald G., "Alcohol
+use among adolescents." Alcohol Health and Research World. 1998, 22, (2),
+85 - 93.
+Full text: http://apha.confex.com/apha/137am/webprogram/Paper200388.html
+
+141. Office of Applied Studies, "Accessing and Analyzing the NHSDA Online."
+NHSDA Report. Rockville, MD: United States Department of Health and Human
+Services, Substance Abuse and Mental Health Services Administration, Nov 2,
+2001.
+Abstract: http://oas.samhsa.gov/2k2/SAMHDAhelp/SAMHDAhelp.cfm
+Full text: http://oas.samhsa.gov/2k2/SAMHDAhelp/SAMHDAhelp.htm
+Full text PDF: http://oas.samhsa.gov/2k2/SAMHDAhelp/SAMHDAhelp.pdf
+
+142. Office of Applied Studies, "Development of computer-assisted
+interviewing procedures for the National Household Survey on Drug Abuse."
+Methodological Series M-3. (SMA) 01-3514, Rockville, MD: United States
+Department of Health and Human Services, Substance Abuse and Mental Health
+Services Administration, Mar 2001.
+Full text: http://www.oas.samhsa.gov/nhsda/CompAssistInterview/toc.htm
+
+143. Office of Applied Studies, "Finding Specific Variables in the NHSDA."
+NHSDA Report. Rockville, MD: Substance Abuse and Mental Health Services
+Administration, Apr 18, 2003.
+Full text: http://www.samhsa.gov/data/2k3/FindVariables/FindVariables.htm
+
+144. Office of Applied Studies, "The National Survey on Drug Use and Health
+(NSDUH)." NSDUH Report. Rockville, MD: United States Department of Health
+and Human Services, Substance Abuse and Mental Health Services
+Administration, Feb 7, 2003.
+Abstract: http://oas.samhsa.gov/2k3/NSDUH/nsduh.cfm
+Full text: http://oas.samhsa.gov/2k3/NSDUH/nsduh.htm
+Full text PDF: http://oas.samhsa.gov/2k3/NSDUH/nsduh.pdf
+
+145. Omori, Marisa K., "Moral panics and morality policy: The impact of
+media, political ideology, drug use, and manufacturing on
+methamphetamine legislation in the United States." Journal of Drug Issues.
+2013, 43, (4), 517 - 534. DOI: 10.1177/0022042613491101
+Abstract: http://oas.samhsa.gov/2k3/NSDUH/nsduh.cfm
+Full text: http://oas.samhsa.gov/2k3/NSDUH/nsduh.htm
+Full text PDF: http://oas.samhsa.gov/2k3/NSDUH/nsduh.pdf
+
+146. Pacific Institute for Research and Evaluation, "Drinking in America:
+Myths, Realities, and Prevention Policy." Washington, DC: United States
+Department of Justice, Office of Juvenile Justice and Delinquency
+Prevention, 2002.
+Abstract: http://oas.samhsa.gov/2k3/NSDUH/nsduh.cfm
+Full text: http://oas.samhsa.gov/2k3/NSDUH/nsduh.htm
+Full text PDF: http://oas.samhsa.gov/2k3/NSDUH/nsduh.pdf
+
+147. Pacula, Rosalie Liccardo; Powell, David; Heaton, Paul; Sevigny, Eric
+L., "Assessing the Effects of Medical Marijuana Laws on Marijuana and
+Alcohol Use: The Devil Is in the Details." NBER Working Paper 19302.
+Cambridge, MA: National Bureau of Economic Research, Aug 2013.
+Full text: http://www.nber.org/papers/w19302
+
+148. Parker, Douglas A.; Levin, Boris M.; Harford, Thomas C., "Effects of
+early drinking and an antisocial orientation on the alcohol use of young
+Russians." Alcoholism: Clinical and Experimental Research. Oct 1996, 20,
+(7), 1179 - 1183. DOI: 10.1111/j.1530-0277.1996.tb01108.x
+Full text: http://www.nber.org/papers/w19302
+
+149. Pearson, Jane; Molock, Sherry; Warner, Margaret; Colpe, Lisa;
+Sherrill, Joel; Sims, Belinda, "Reducing mortality and morbidity from
+suicide: How can we get there?." PowerPoint presentation. Washington, DC:
+National Action Alliance for Suicide Prevention, Research Prioritization
+Task Force, 2010..
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+150. Peytchev, Andy, "Consequences of survey nonresponse." Annals of the
+American Academy of Political and Social Science. Jan 2013, 645, (1), 88 -
+111. DOI: 10.1177/0002716212461748
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+151. Phelps, Michelle S., "Mass probation and inequality: Race, class, and
+gender disparities in supervision and revocation." In Ulmer, Jeffrey T.;
+Bradley, Mindy, Handbook on Punishment Decisions: Locations of Disparity.
+43 - 66, New York, NY: Routledge,2018.
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+152. Pike, Kathleen M.; Dohm, Faith-Anne; Striegel-Moore, Ruth; Wilfley,
+Denise E.; Fairburn, Christopher G., "A comparison of black and white women
+with binge eating disorder." American Journal of Psychiatry. Sep 2001, 158,
+(9), 1455 - 1460. DOI: 10.1176/appi.ajp.158.9.1455
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+153. Piquero, Alex R.; Farrington, David P.; Blumstein, Alfred, "The
+criminal career paradigm." In Tonry, Michael, Crime and Justice: A Review
+of Research. 359 - 506, Chicago, IL: University of Chicago Press,2003.
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+154. Ramo, Danielle E.; Liu, Howard; Prochaska, Judith J., "Reliability and
+validity of young adults’ anonymous online reports of marijuana use and
+thoughts about use." Psychology of Addictive Behaviors. Dec 2012, 26, (4),
+801 - 811. DOI: 10.1037/a0026201
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+155. Ray, Kilynda V., "Relationships Between Family and Individual Factors
+and Black Adolescent Marijuana Use." Dissertation, Howard University, 2010.
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+156. Reed, Diane F.; Reed, Edward L., "Children of incarcerated parents."
+Social Justice. Fal 1997, 24, (3), 152 - 169.
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+157. Reuter, Peter, "Drug Use." Gender Issues. Sum 2006, 23, (3), 65 -.
+DOI: 10.1007/BF03186778 ojp-98-c-001; OJP-89-C-008
+Abstract: http://proquest.umi.com/pqdweb?index=0&did=1256440581&SrchMode=1&sid=1&Fmt=2&VInst=PROD&VType=PQD&RQT=309&VName=PQD&TS=1176982461&clientId=17822
+
+158. Robertson, E.B.; Donnermeyer, J.F., "Patterns of drug use among
+nonmetropolitan and rural adults." Substance Use and Misuse. Aug 1998, 33,
+(10), 2109 - 2129. DOI: 10.3109/10826089809069818
+Abstract: http://proquest.umi.com/pqdweb?index=0&did=1256440581&SrchMode=1&sid=1&Fmt=2&VInst=PROD&VType=PQD&RQT=309&VName=PQD&TS=1176982461&clientId=17822
+
+159. Roizen, R. , "Whither youthful drinking in the United States, 1980-
+1992?." Drugs and Society. 1997, 11, (1/2), 93 - 115. DOI:
+10.1300/J023v11n01_07
+Abstract: http://etoh.niaaa.nih.gov/
+
+160. Rose, Jennifer; Dierker, Lisa C., "DSM-IV nicotine dependence symptom
+characteristics for recent-onset smokers." Nicotine and Tobacco Research.
+Mar 2010, 12, (3), 278 - 286. DOI: 10.1093/ntr/ntp210
+Abstract: http://etoh.niaaa.nih.gov/
+
+161. Rosenstein, Paul, "Job Change and Alcohol Use: A Study Based on the
+National Survey of Drug Use and Health (NSDUH) series 2000-2010." Thesis,
+University of Virginia, 2012.
+Abstract: http://etoh.niaaa.nih.gov/
+
+162. Rouse, B.A., "Epidemiology of illicit and abused drugs in the general
+population, emergency department drug-related episodes, and arrestees."
+Clinical Chemistry. 1996, 42, (2), 1330 - 1336.
+Abstract: http://etoh.niaaa.nih.gov/
+
+163. Rouse, B.A.; Kozel, N.J.; Richards, L.G., "Self-Report Methods of
+Estimating Drug Use: Meeting Current Challenges to Validity." Washington,
+DC: National Institute on Drug Abuse, 1985.
+Abstract: http://etoh.niaaa.nih.gov/
+
+164. Ryan, Olivia; Murphy, Deena; Krom, Laurie, "Vital Signs: Taking the
+Pulse of the Addiction Treatment Workforce." A National Report, Version 1.
+Kansas City, MO: Addiction Technology Transfer Center National Office in
+residence at the University of Missouri-Kansas City, Sep 28, 2012.
+Full text PDF: http://onlinelibrary.wiley.com.proxy.lib.umich.edu/doi/10.1002/adaw.20349/pdf
+
+165. Saffer, Henry; Chaloupka, Frank, "Demographic differentials in the
+demand for alcohol and illicit drugs." In Chaloupka, Frank J.; Grossman,
+M.; Bickel, W.K.; Saffer, Henry, Economic Analysis of Substance Use and
+Abuse: An Integration of Econometric and Behavioral Economic Research. 187
+- 211, Chicago, IL: University of Chicago Press,1999.
+Full text PDF: http://onlinelibrary.wiley.com.proxy.lib.umich.edu/doi/10.1002/adaw.20349/pdf
+
+166. Said, Yasmin H.; Wegman, Edward J., "Geospatial distribution of
+alcohol-related violence in Northern Virginia." In Compstat 2006 -
+Proceedings in Computational Statistics. 197 - 207, Physica-Verlag HD,2006.
+DOI: 10.1007/978-3-7908-1709-6_15
+Full text PDF: http://onlinelibrary.wiley.com.proxy.lib.umich.edu/doi/10.1002/adaw.20349/pdf
+
+167. Santos, Robert; Long, Sharon K.; Resnick, Dean; Wissoker, Douglas;
+Kenney, Genevieve M.; Call, Kathleen Thiede, "Developing Subannual
+Estimates of Health Insurance Coverage from the American Community Survey:
+Challenges and Promising Next Steps." Mar 2013.
+Full text PDF: http://www.urban.org/UploadedPDF/412805-Developing-Subannual-Estimates-of-Health-Insurance-Coverage-from-the-American-Community-Survey.pdf
+
+168. Sears, Edie S.; Anthony, James C., "Artificial Neural Networks for
+Adolescent Marijuana Use and Clinical Features of Marijuana Dependence."
+Substance Use and Misuse. Jan 2004, 39, (1), 107 - 134. DOI: 10.1081/JA-
+120027768
+Full text PDF: http://www.urban.org/UploadedPDF/412805-Developing-Subannual-Estimates-of-Health-Insurance-Coverage-from-the-American-Community-Survey.pdf
+
+169. Shapiro, Brad; Coffa, Diana; McCance-Katz, Elinore F., "A primary care
+approach to substance misuse." American Family Physician. 2013, 88, (2),
+113 - 121.
+Full text PDF: http://www.urban.org/UploadedPDF/412805-Developing-Subannual-Estimates-of-Health-Insurance-Coverage-from-the-American-Community-Survey.pdf
+
+170. Skinner, William F.; Otis, Melanie D., "Drug and alcohol use among
+lesbian and gay people in a southern U.S. sample: Epidemiological,
+comparative, and methodological findings from the Trilogy Project." Journal
+of Homosexuality. 1996, 30, (3), 59 - 92. DOI: 10.1300/J082v30n03_04
+Full text PDF: http://www.urban.org/UploadedPDF/412805-Developing-Subannual-Estimates-of-Health-Insurance-Coverage-from-the-American-Community-Survey.pdf
+
+171. Sloboda, Zili, "Changing patterns of 'drug abuse' in the United
+States: Connecting findings from macro- and microepidemiologic studies."
+Substance Use and Misuse. Jun/Aug 2002, 37, (8-10), 1229 - 1251. DOI:
+10.1081/JA-120004181
+Full text PDF: http://www.urban.org/UploadedPDF/412805-Developing-Subannual-Estimates-of-Health-Insurance-Coverage-from-the-American-Community-Survey.pdf
+
+172. Smith, M. Elizabeth; Farah, Martha J., "Are prescription stimulants
+'Smart Pills'?
+The epidemiology and cognitive neuroscience of prescription stimulant use
+by normal healthy individuals." Psychological Bulletin. 2011, 137, (5), 717
+- 741. DOI: 10.1037/a0023825
+Full text PDF: http://www.urban.org/UploadedPDF/412805-Developing-Subannual-Estimates-of-Health-Insurance-Coverage-from-the-American-Community-Survey.pdf
+
+173. Snyder, Thomas D.; Hoffman, Charlene M., "Digest of Education
+Statistics 2001." NCES 2002-130, Washington, DC: United States Department
+of Education, Office of Educational Research and Improvement, Feb 2002.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002130
+Full text PDF: http://nces.ed.gov/pubs2002/2002130.pdf
+
+174. Steverman, Sarah M., "State Commitment to Mental Health Promotion and
+Mental Illness Prevention: The Impact on Health and Behavioral Health
+Outcomes." Dissertation, Catholic University of America, 2014.
+Abstract: http://www.nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2002130
+Full text PDF: http://nces.ed.gov/pubs2002/2002130.pdf
+
+175. Substance Abuse and Mental Health Services Administration, "Behavioral
+Health, United States, 2012." Substance Abuse and Mental Health Services
+Administration. (SMA) 13-4797, Rockville, MD: Substance Abuse and Mental
+Health Services Administration, 2013.
+Full text PDF: http://media.samhsa.gov/data/2012BehavioralHealthUS/2012-BHUS.pdf
+
+176. Substance Abuse and Mental Health Services Administration, "Merging
+Auxiliary Data with NSDUH Data for Mental Health Research." Center for
+Behavioral Health Statistics and Quality (CBHSQ) Methodology Report.
+Rockville, MD: Center for Behavioral Health Statistics and Quality, Jun
+2016.
+Full text PDF: https://www.ncbi.nlm.nih.gov/books/NBK519755/pdf/Bookshelf_NBK519755.pdf
+
+177. United States Department of Health and Human Services, Substance Abuse
+and Mental Health Services Administration, "Report to Congress on the
+Prevention and Reduction of Underage Drinking." Washington, DC: United
+States Department of Health and Human Services, Nov 2012.
+Full text PDF: https://www.stopalcoholabuse.gov/media/ReportToCongress/2012/report_main/report_to_congress_2012.pdf
+
+178. Vidourek, Rebecca A.; King, Keith A.; Burbage, Michelle L.,
+"Authoritarian parenting and ecstasy use among US youth." Journal of
+Behavioral Health. 2014, 3, (4), 250 - 254. DOI: 10.5455/jbh.20141123045248
+Full text PDF: https://www.stopalcoholabuse.gov/media/ReportToCongress/2012/report_main/report_to_congress_2012.pdf
+
+179. Watkins, Katherine E.; Burnam, M. Audrey; Okeke, Edward N.; Setodji,
+Claude Messan, "Evaluating the Impact of Prevention and Early Intervention
+Activities on the Mental Health of California's Population." Technical
+Report. Santa Monica, CA: RAND Corporation, 2012.
+Full text PDF: http://calmhsa.org/wp-content/uploads/2012/09/TR1316_FNLCompiled.pdf
+
+180. Wen, Hefei; Hockenberry, Jason M.; Cummings, Janet R., "The effect of
+medical marijuana laws on adolescent and adult use of marijuana, alcohol,
+and other substances." Journal of Health Economics. in press 2015,. DOI:
+10.1016/j.jhealeco.2015.03.007
+Full text PDF: http://calmhsa.org/wp-content/uploads/2012/09/TR1316_FNLCompiled.pdf
+
+181. White House Office of National Drug Control Policy, "2012 National
+Drug Control Policy." Updated Mar 2013,.
+Full text: http://www.whitehouse.gov/ondcp/2012-national-drug-control-strategy
+
+182. Whittle, Tanya N., "Redefining Success: A Harm Reduction Evaluation of
+Abstinence-based Drug Education." Dissertation, George Washington
+University, 2010.
+Full text: http://www.whitehouse.gov/ondcp/2012-national-drug-control-strategy
+
+183. Williams, Jill M.; Steinberg, Marc L.; Griffiths, Kim Gesell;
+Cooperman, Nina, "Smokers with behavioral health comorbidity should be
+designated a tobacco use disparity group." American Journal of Public
+Health. Sep 2013, 103, (9), 1549 - 1555. DOI: 10.2105/AJPH.2013.301232
+Full text: http://www.whitehouse.gov/ondcp/2012-national-drug-control-strategy
+
+184. Wood, Darryl S., "A Review of Research on Alcohol and Drug Use,
+Criminal Behavior, and the Criminal Justice System Response in American
+Indian and Alaska Native Communities." NCJ 231348, Dec 2009. 2008-237
+Abstract: http://www.ncjrs.gov/App/publications/abstract.aspx?ID=253410
+Full text PDF: https://www-ncjrs-gov.proxy.lib.umich.edu/pdffiles1/nij/grants/231348.pdf
+This report supported by the U.S. Department of Justice, National Institute
+of Justice (NIJ) presents a summary and analysis of literature on alcohol-
+and drug-related crime in American Indian/Alaskan Native (AI/AN)
+communities. The report begins with an analysis of the epidemiology of
+AI/AN substance abuse providing a better understanding of the nature of
+alcohol and other drug use that co-occurs with AI/AN crime. Highlights of
+key points that emerged include: (1) national surveys indicate AI/ANs are
+more likely than the general public to report being symptomatic of alcohol
+and drug use disorders as defined in the American Psychiatric Association’s
+Diagnostic and Statistical Manual of Mental Disorders and (2) alcohol and
+drug use among AI/AN youth has been the subject of a considerable amount of
+research, most of which indicates a higher lifetime prevalence relative to
+the general population. After examining existing research on substance
+abuse and crime in AI/AN communities, higher levels of alcohol involvement
+in AI/AN crime was found and AI/ANs who use alcohol were more likely to be
+a crime victim or perpetrator. The report also examined research on policy
+responses to the problem of drug- and alcohol-involved crime among AI/ANs.
+With the exception of one policy, local alcohol prohibition, very little is
+known about the effects of criminal justice policy and specific initiatives
+aimed at reducing alcohol and drug related crime in AI/AN communities. The
+report presents and discusses a number of research approaches that have the
+potential to improve the understanding of legal and criminal justice
+responses to alcohol and drug related crime in AI/AN communities. Tables
+and references
+
+185. Wright, Douglas; Gfroerer, Joseph ; Epstein, Joan, "The use of
+external data sources and ratio estimation to improve estimates of hardcore
+drug use from the NHSDA." NIDA Research Monograph. 1997, 167, 477 - 497.
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/477-497_Wright.pdf
+
+186. Wu, Li-Tzy; Blazer, Dan G., "Illicit and nonmedical drug use among
+older adults: A review." Journal of Aging and Health. 2011, 23, (3), 481 -
+504. DOI: 10.1177/0898264310386224
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/477-497_Wright.pdf
+
+187. Yacoubian, George S., Jr., "Tracking ecstasy trends in the United
+States with data from three national drug surveillance systems ." Journal
+of Drug Education. 2003, 33, (3), 245 - 258. DOI: 10.2190/BDQB-2NPV-PAW3-
+VUXV
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/477-497_Wright.pdf
+
+188. Yesalis, C.E.; Barsukiewicz, C.K.; Kopstein, A.N.; Bahrke, M.S.,
+"Trends in anabolic-androgenic steroid use among adolescents." Archives of
+Pediatrics and Adolescent Medicine. Dec 1997, 151, (12), 1197 - 1206. DOI:
+10.1001/archpedi.1997.02170490023005
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/477-497_Wright.pdf
+
+189. Zarkin, Gary A.; Cowell, Alexander J.; Hicks, Katherine A.; Mills,
+Michael J.; Belenko, Steven; Dunlap, Laura J.; Houser, Kimberly A.; Keyes,
+Vince, "Benefits and costs of substance abuse treatment programs for state
+prison inmates: Results from a lifetime simulation model." Health
+Economics. Jun 2012, 21, (6), 633 - 652. DOI: 10.1002/hec.1735
+Full text PDF: http://www.drugabuse.gov/pdf/monographs/monograph167/477-497_Wright.pdf

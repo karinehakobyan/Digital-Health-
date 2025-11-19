@@ -1,0 +1,65 @@
+File Manifest for ICPSR 35509
+
+United States Department of Health and Human Services. Substance Abuse and
+Mental Health Services Administration. Center for Behavioral Health
+Statistics and Quality. National Survey on Drug Use and Health, 2013.
+ICPSR35509-v3. Ann Arbor, MI: Inter-university Consortium for Political and
+Social Research [distributor], 2015-11-23.
+http://doi.org/10.3886/ICPSR35509.v3
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35509-descriptioncitation.pdf       -       -         -       2019-06-27  -
+
+    35509-related_literature.txt        -       -         -       daily       -
+
+    35509-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 National Survey on Drug Use and Health, 2013
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35509-0001-Codebook.pdf             -       -         -       2015-11-23  d57b7e95c4055890311a4260b844ed02
+
+    35509-0001-Data.dta                 -       55,160    3141    2014-11-18  e94b085fac71c91bb0347aa3f822e6cd
+
+    35509-0001-Data.rda                 -       55,160    3141    2014-11-18  46662bc33b185c88b38d4cc3049a8042
+
+    35509-0001-Data.sav                 -       55,160    3141    2014-11-18  c3b74f5fe3d2fdcd5b702fe4b6572ea3
+
+    35509-0001-Data.stc                 -       55,160    3141    2014-11-18  a764034be61149132a65d66eff7ff5d6
+
+    35509-0001-Data.tsv                 -       55,160    3141    2014-11-18  b7af0f8e5207b20078132a87477b9d1e
+
+    35509-0001-Data.txt                 6876    55,160    3141    2014-11-18  a138a487056b3cf35fb11c569b9b6fff
+
+    35509-0001-Questionnaire-screener.pdf -       -         -       2015-11-23  740ccb821ac448fafbfd7583e617c971
+
+    35509-0001-Questionnaire-showcards.pdf -       -         -       2015-11-23  b07c856694770dfb9d9ca8f41e22a3b5
+
+    35509-0001-Questionnaire-specs.pdf  -       -         -       2015-11-23  81b8662b3a57d736a6486e22e0074918
+
+    35509-0001-Setup.dct                -       -         -       2014-11-18  13be186f7c03a8420e0233f11d8a42eb
+
+    35509-0001-Setup.do                 -       -         -       2014-11-18  ffce3a605a346f1168b0c06cadf1b17f
+
+    35509-0001-Setup.sas                -       -         -       2014-11-18  402f64b899ed8239a0165c853a8d4279
+
+    35509-0001-Setup.sps                -       -         -       2014-11-18  41b0520a2c9d10c69aeac0d5392862bb
+
+    35509-0001-Supplemental_syntax.do   -       -         -       2014-11-18  de573268bde0b5390c3e0c0726ee6ccf
+
+    35509-0001-Supplemental_syntax.sas  -       -         -       2014-11-18  e8db476a3184f782ea07e46540ee0436
+
+
+Version History
+
+2015-11-23 Covers for the PDF documentation were revised.
