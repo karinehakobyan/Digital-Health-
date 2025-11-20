@@ -1,4 +1,5 @@
-df<-load("/Users/karinehakobyan/Documents/Semester1 /Digital Health/My website/35509-0001-Data.rda")
+load("35509-0001-Data.rda")  
+df <- "35509-0001-Data.rda"
 # change to the folder path of your data
 library(labelled)
 library(tibble)  
